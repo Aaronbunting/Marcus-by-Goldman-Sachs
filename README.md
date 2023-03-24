@@ -36,7 +36,21 @@ Discover Bank: Discover bank is a tradtiitonal bank that has embraced online ban
 
 Marcus competes with these companies by offering a unique combination of no-fee personal loans, high yield savings accounts, and debt consolidation products, along with a simplified and transparent approach to banking. Additionally, its association with Goldman Sachs gives it a level of credibility and trust that sets it apart from many competitors. 
 
+Marcus has seen significant growth and success since its launch in 2016. As of 2021. The company has provided over $10 billion in loans to customers and has over 4 million customers across its various products. in 2020 the company, reported 1.4 billion in revenue an increase of 42% from the previous year. 
 
+Companies in the online banking and financial services domain typically use a variety of metrics to measure success, including customer acquisition and retention, loan orgiination volume, loan performance, and revenue growth. Marcus by Goldman Sachs tracks many of the these metrics, including loan origination volume, deposit growth, and customer satisfaction. The company has also emphasized the importance of maintaining a strong net promoter score(NPS), a measure of customer loyalty and satisfaction. 
+
+Compared to its competitors in the online banking and financial services domain, Marcus has seen strong performance in terms of loan origination volume and customer acquisition. According to data from S&P Global Market Intelligence, Marcus was the fourth-larges orginator of personal loans in the U.S in 2020 behind only LendingClub, Prosper, and Upgrade. The company has also been successsful in attracting customers to its high-yield savings accounts, which offer some of the best interest rates in the industry with a 3.75% APY on all balance limits in thier online banking accounts 
+
+In terms of revenue growth, Marcus has outperformed many of its competitors, According to data from S&P Global Market Intelligence, the company's revenue grew by 42% in 2020, compared to an average growth rate of 26% for online-onlly banks. Additionally, the company's parent company, Goldman Sachs, has a strong balance sheet and financial stability, which has has allowed Marcus to weather economic downturns and continue to grow its business. 
+
+As An advisor to Marcus, I would reecommend the company to consider offering a digital investment platform that allows customers to easily invest in stocks, bonds, and other securites such as the likes of Robinhoo, Webull, and TD Ameritrade. While Marcus already offers savings accounts and personal loans, a digital investment platform could help the company better serve its customers long term financial needs and provide a new revenue stream for the company. 
+
+Offering a digital investment platform would benefit Marcus in several ways. Firstly, it would provide a new revenue stream for the company through commissions and fees earned from customers trades and investment management. Additionally, it would allow the company to deepen its relationship with its existing customer base by providing them with a comphrehesive suite of financial services. Finally, it would help Marcus to attract new customers who are seeking a modern convenient investment platform. 
+
+The technologies outlined above are appropriate for this solution because they align with Marcus's overall focus on providing innovative and technology-driven financial solutions to its customers. Furthermore, these technologies have been successfully implemented that they are feasible and effective. 
+
+In Conclusion, offering a digital investment platform would provide significant benefits to Marcus including increased revenue and deeper customer relationships. By leveragin appropriate technologies continuing to focus on innovative solutions, Marcus can expand its product offerings and maintain its position as major player in online banking and financial services domain. 
 
 
 
