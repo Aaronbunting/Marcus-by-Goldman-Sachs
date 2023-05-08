@@ -8,55 +8,6 @@ One of the key methods used to conduct corporate analysis is the case study. Tho
 
 Instructions
 1. Choose a fintech domain that you find relevant or interesting
-NOTE
-We covered a number of fintech domains in class this week. If you already have a company in mind that you want to research, skip to Step 3. Here are some domains that you may want to choose from:
-
-Payments/Billing
-
-Capital Investment
-
-Investment Management
-
-Wealth Management
-
-Enterprise Solutions
-
-Insurance (InsurTech)
-
-Mortgage/Real Estate
-
-Personal Finance/Deposits/Online Banking
-
-Lending
-
-Blockchain and Cryptocurrencies
-
-Regulation Technology (RegTech)
-
-Open Banking
-
-Robo-advising
-
-Remember that because fintech is an evolving field, different fintech reports may use different names and definitions for various domains and sectors (for example, CB Insights, Investopedia, Accenture). In addition, you may come across lists of fintech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
-
-2. Choose a company (or project) within your chosen fintech domain
-Use online research to identify the trends in your domain, and choose a company that is successful or otherwise interesting to you. For example, if you chose wealth management, you may want to review online journals, periodicals, reports, and websites about the future of wealth management, or how fintech is changing or disrupting wealth management.
-
-Your company could be:
-
-A new, emerging fintech company that is doing well in a particular domain. Examples include Square, Plaid, Lemonade, RobinHood, and Coinbase.
-
-A large incumbent financial or technology company that is doing something interesting and new with technology. Examples include Goldman Sachs’ Marcus, JP Morgan’s JPMCoin, and Apple Card.
-
-A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a fintech company in your local area or a company with a new idea that you would like to learn more about.
-
-3. Conduct your research, using the case study template as a guide
-We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
-
-NOTE
-If you have chosen a project within a larger company (such as the Apple credit card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
-
- 
 
 Case Study Template
 # Title
