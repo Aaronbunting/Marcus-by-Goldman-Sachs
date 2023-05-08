@@ -6,7 +6,7 @@ As a fintech professional, it’s critical to understand how fintech companies s
 
 One of the key methods used to conduct corporate analysis is the case study. Though case studies are often 50–100 pages or more, your task is to create a more focused case study. You’ll analyze how a fintech company is responding to the problems and needs of the fintech domain it is in, and how it is using technology to solve a standing financial problem.
 
-Instructions
+# Instructions
 1. Choose a fintech domain that you find relevant or interesting
 
 Case Study Template
