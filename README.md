@@ -2,21 +2,12 @@
 ![Marcus by Goldman Sachs](https://github.com/Aaronbunting/Marcus-by-Goldman-Sachs/assets/128101698/7dfb2d55-0331-40c4-999e-6c2bf805d23e)
 
 # Marcus-by-Goldman-Sachs
-
-- [Introduction] (3Introduction)
-[Background] (#id-Background)
-Technology and Business Model 
-Industry landscape 
-Performance and Results
-Recommendations 
-Sources
-
-
-
-
-
-
-< div id= 'id-Background'/>
+[Background](#Background)
+[Business Activities](#Business-Activities)
+[Landscape](#Landscape)
+[Results](#Results)
+[Recommendations](#recommendations)
+[Sources](#Sources)
 
 ## Background
 
