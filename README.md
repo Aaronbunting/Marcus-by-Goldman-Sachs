@@ -2,12 +2,12 @@
 ![Marcus by Goldman Sachs](https://github.com/Aaronbunting/Marcus-by-Goldman-Sachs/assets/128101698/7dfb2d55-0331-40c4-999e-6c2bf805d23e)
 
 # Marcus-by-Goldman-Sachs
-1.[Background](#Background)
-2.[Business Activities](#Business-Activities)
-3,[Landscape](#Landscape)
-4.[Results](#Results)
-5.[Recommendations](#recommendations)
-6.[Sources](#Sources)
+* 1.[Background](#Background)
+* 2.[Business Activities](#Business-Activities)
+* 3[Landscape](#Landscape)
+* 4.[Results](#Results)
+* 5.[Recommendations](#recommendations)
+* 6.[Sources](#Sources)
 
 ## Background
 
