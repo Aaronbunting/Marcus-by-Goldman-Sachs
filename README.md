@@ -1,5 +1,5 @@
 # Marcus-by-Goldman-Sachs
-
+![Marcus by Goldman Sachs](https://github.com/Aaronbunting/Marcus-by-Goldman-Sachs/assets/128101698/7dfb2d55-0331-40c4-999e-6c2bf805d23e)
 # Background
 
 As a fintech professional, it’s critical to understand how fintech companies start, evolve, and grow, and to be able to speak knowledgeably about the major players in the fintech space. Even those in a highly technical role must stay up-to-date on what is happening in the business landscape, as many fintech companies create tools and technologies that are then used by other companies.
