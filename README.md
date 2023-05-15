@@ -4,12 +4,21 @@
 # Marcus-by-Goldman-Sachs
 
 # Table of Contents 
+* [Introduction](#Introduction)
 * [Background](#Background)
 * [Business Activities](#Business-Activities)
 * [Landscape](#Landscape)
 * [Results](#Results)
 * [Recommendations](#recommendations)
 * [Sources](#Sources)
+
+## Introduction
+
+* Company: Marcus by Goldman Sachs
+* Founded: October 2016
+* Founders: Parent Company Goldman Sachs 
+* Funding: Undisclosed
+
 
 ## Background
 Marcus by Goldman Sachs is an online consumer banking platform that was launched in 2015. The company provides customers with competitive interest rates on loans and savings accounts, as well as well streamlined, user-friendly experience. This case study provided below will explore the history of Marcus by Goldman Sachs, including the founders of the company and how the idea for the company was orginated. Additionally, the study will examine how the company is funded and how much funding it has received in the process.
