@@ -3,10 +3,15 @@
 
 # Marcus-by-Goldman-Sachs
 [Background](#Background)
+
 [Business Activities](#Business-Activities)
+
 [Landscape](#Landscape)
+
 [Results](#Results)
+
 [Recommendations](#recommendations)
+
 [Sources](#Sources)
 
 ## Background
