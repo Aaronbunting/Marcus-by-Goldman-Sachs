@@ -3,8 +3,8 @@
 
 # Marcus-by-Goldman-Sachs
 
-[Introduction] (Introduction)
-[Background] Background
+[Introduction] (3Introduction)
+[Background] (#Background)
 Technology and Business Model 
 Industry landscape 
 Performance and Results
