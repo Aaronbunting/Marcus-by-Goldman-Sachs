@@ -4,7 +4,6 @@
 # Marcus-by-Goldman-Sachs
 
 # Table of Contents 
-==============================================
 * [Background](#Background)
 * [Business Activities](#Business-Activities)
 * [Landscape](#Landscape)
