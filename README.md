@@ -10,7 +10,7 @@
 * [Landscape](#Landscape)
 * [Results](#Results)
 * [Recommendations](#recommendations)
-* [Sources](#Sources)
+* [Resources](#Resources)
 
 ## Introduction
 
@@ -79,8 +79,11 @@ The technologies outlined above are appropriate for this solution because they a
 
 * In Conclusion, offering a digital investment platform would provide significant benefits to Marcus including increased revenue and deeper customer relationships. By leveragin appropriate technologies continuing to focus on innovative solutions, Marcus can expand its product offerings and maintain its position as major player in online banking and financial services domain.
 
-
-
+Resources/Links:
+https://www.nytimes.com/2023/01/13/business/goldman-sachs-david-solomon-ceo.html
+https://www.marcus.com/us/en?prd=pl&chl=ps&schl=psg&cid=979005039&agp=52483357670&cre=645331501155&kid=marcus%20goldman%20sachs&mtype=e&adpos=&gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaUPRABnSp2-Bu6k4GWbFkun9pjfPE1c6_726mLZgVMFT3M0UWMUNsAaAstVEALw_wcB&gclsrc=aw.ds
+https://www.forbes.com/advisor/personal-loans/marcus-personal-loans-review/#:~:text=Marcus%20offers%20personal%20loans%20between,of%2036%20to%2072%20months.
+https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/goldman-sachs-tried-to-do-too-much-in-building-consumer-business-ceo-says-73855470
 
 
 
