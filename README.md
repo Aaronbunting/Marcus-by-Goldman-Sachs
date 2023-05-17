@@ -53,7 +53,7 @@ One of the unfair advantages that Marcus by Goldman Sachs has over its competito
 
 2. Chime: Chime is a mobile banking app that offers fee-free banking sercices, including checking and savings accounts, debit cards, and credit building tools. - [Chime](https://www.chime.com/)
 
-3. Varo: Varo is an online only bank that offers checking and savings accounts, personal loans, and overdraft protection services.[Varo](https://www.varomoney.com/)
+3. Varo: Varo is an online only bank that offers checking and savings accounts, personal loans, and overdraft protection services.- [Varo](https://www.varomoney.com/)
 
 4. Discover Bank: Discover bank is a tradtiitonal bank that has embraced online banking and offers a variety of financial products, including checking and savings accounts, credit cards, and personal loans. - [Discover Bank](https://www.discover.com/online-banking/?cmpgnid=ps-bk-bng-bndgen&src=S000007BK&van=Dbank&gclid=6d0e0e52ff93140cf0866a36108f53c0&gclsrc=3p.ds&msclkid=6d0e0e52ff93140cf0866a36108f53c0&utm_source=bing&utm_medium=cpc&utm_campaign=BING_DISCOVER_DEPOSIT_GENERAL_TOPVOL_BRAND_PROSPECTING_EXM&utm_term=discover%20bank&utm_content=GNR_GENERAL_TOPVOL)
 
