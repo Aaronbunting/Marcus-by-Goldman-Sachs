@@ -14,9 +14,9 @@
 
 ## Introduction
 
-* Company: Marcus by Goldman Sachs [Marcus](https://www.marcus.com/us/en?prd=pl&chl=ps&schl=psg&cid=979005039&agp=52483357670&cre=645331501155&kid=marcus%20goldman%20sachs&mtype=e&adpos=&gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaUPRABnSp2-Bu6k4GWbFkun9pjfPE1c6_726mLZgVMFT3M0UWMUNsAaAstVEALw_wcB&gclsrc=aw.ds)
+* Company: Marcus by Goldman Sachs: [Marcus](https://www.marcus.com/us/en?prd=pl&chl=ps&schl=psg&cid=979005039&agp=52483357670&cre=645331501155&kid=marcus%20goldman%20sachs&mtype=e&adpos=&gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaUPRABnSp2-Bu6k4GWbFkun9pjfPE1c6_726mLZgVMFT3M0UWMUNsAaAstVEALw_wcB&gclsrc=aw.ds)
 * Founded: October 2016
-* Founders: Parent Company Goldman Sachs [Goldman Sachs](https://www.goldmansachs.com/?chl=ps&plt=bi&cid=638072350&agp=1217159882688041&kid=goldman%20sachs%20%26%20co&mtype=e&msclkid=298d431e5f121a859abb277ab4a8fbdb&gclid=298d431e5f121a859abb277ab4a8fbdb&gclsrc=3p.ds&)
+* Founders: Parent Company Goldman Sachs: [Goldman Sachs](https://www.goldmansachs.com/?chl=ps&plt=bi&cid=638072350&agp=1217159882688041&kid=goldman%20sachs%20%26%20co&mtype=e&msclkid=298d431e5f121a859abb277ab4a8fbdb&gclid=298d431e5f121a859abb277ab4a8fbdb&gclsrc=3p.ds&)
 * Funding: Undisclosed
 
 
